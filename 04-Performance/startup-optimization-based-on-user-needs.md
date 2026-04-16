@@ -86,6 +86,13 @@ Task Manager Startup tab showing multiple applications enabled to launch automat
 
 Most startup applications have been disabled, leaving only essentials processes such as Microsoft Edge and OneDrive enabled.
 
+# Task Manager - Processes (After Optimization)
+
+<img width="1919" height="1151" alt="After Optimization - Processes" src="https://github.com/user-attachments/assets/1f1826f4-f4e0-4591-8dfd-77e4c249ffe7" />
+
+
+
+
 
 
 
