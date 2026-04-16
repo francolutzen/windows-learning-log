@@ -90,6 +90,9 @@ Most startup applications have been disabled, leaving only essentials processes 
 
 <img width="1919" height="1151" alt="After Optimization - Processes" src="https://github.com/user-attachments/assets/1f1826f4-f4e0-4591-8dfd-77e4c249ffe7" />
 
+The number of active background processes has been reduced after disabling non-essentials startup applications.
+This is reflected in a clear reduction in resource usage, with CPU usage decreasing from around 50-70% to roughly 5%-20%
+
 
 
 
