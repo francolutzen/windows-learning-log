@@ -2,7 +2,7 @@
 
 A practical learning log for Windows 10/11, networking, security, and technical support.
 
- # Contents
+  Contents
 
 • Windows Setup
 • Basic Networking
@@ -11,6 +11,6 @@ A practical learning log for Windows 10/11, networking, security, and technical 
 • Troubleshooting
 • Command Line
 
-# Objective
+ Objective
 
 To document real-world practices and develop technical skills applicable to IT support.
