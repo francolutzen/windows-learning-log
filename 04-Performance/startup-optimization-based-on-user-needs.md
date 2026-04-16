@@ -59,6 +59,12 @@ The system shows multiple active background processes, increasing CPU and memory
 
 The CPU usage is consistenly high even without active user interaction. This indicates that multiple background processes are consuming system resources.
 
+# Task Manager - Performance (Memory) (Before Optimization)
+
+<img width="1919" height="1122" alt="Before Optimization - RAM" src="https://github.com/user-attachments/assets/351b6f11-fbbd-4733-911a-abd5e68c4f9a" />
+
+Memory usage remains relatively high due to multiple background applications running simultaneously. This limits the amount of avaliable RAM for other tasks and can impact overall system responsiveness.
+
 # Task Manager - Startup (Before Optimization)
 
 <img width="1919" height="1151" alt="Before Optimization - Startup" src="https://github.com/user-attachments/assets/bd1f2a52-4821-42db-9ff4-7b1e05095405" />
