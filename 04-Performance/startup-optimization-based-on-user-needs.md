@@ -1,8 +1,10 @@
 # Startup Optimization Based on User Needs
 
-## Objective
+## Objectives
 
-Analyze how startup applications affect Windows performance and compare different optimization strategies based on user profiles.
+- Demonstrate how a standard Windows system with defaults settings and commonly used applications can experience performance slowdowns due to excessive startup programs and unnecesary background processes
+
+- Analyze the impact of startup applications on system performance and compare basic optimizations strategies tailored to different user needs.
 
 ## Test Environment
 
