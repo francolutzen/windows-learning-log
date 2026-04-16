@@ -51,11 +51,19 @@ This image shows the test environment with commonly used applications installed 
 
 The system shows multiple active background processes, increasing CPU and memory usage even in idle state
 
+# Task Manager - CPU Performance (Before Optimization)
+
+<img width="1919" height="1121" alt="Before Optimization - CPU Performance" src="https://github.com/user-attachments/assets/b9b89085-91a4-4382-8bc1-5c6d946cf654" />
+
+The CPU usage is consistenly high even without active user interaction. This indicates that multiple background processes are consuming system resources.
+
 # Startup Configuration Evidence
 
 <img width="1919" height="1151" alt="Before Optimization - Startup" src="https://github.com/user-attachments/assets/bd1f2a52-4821-42db-9ff4-7b1e05095405" />
 
 Task Manager Startup tab showing multiple applications enabled to launch automatically with Windows.
+
+# 
 
 
 
