@@ -51,7 +51,7 @@ This image shows the test environment with commonly used applications installed 
 
 The system shows multiple active background processes, increasing CPU and memory usage even in idle state
 
-### Startup Configuration Evidence
+# Startup Configuration Evidence
 
 <img width="1919" height="1151" alt="Before Optimization - Startup" src="https://github.com/user-attachments/assets/bd1f2a52-4821-42db-9ff4-7b1e05095405" />
 
