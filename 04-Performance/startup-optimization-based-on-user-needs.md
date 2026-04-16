@@ -1,1 +1,41 @@
+# Startup Optimization Based on User Needs
+
+## Objective
+
+Analyze how startup applications affect Windows performance and compare different optimization strategies based on user profiles.
+
+## Test Environment
+
+* VirtualBox
+* Windows 10
+* 4 GB RAM
+* Simulated average user scenario
+
+## Installed Applications
+
+* Spotify
+* Discord
+* Steam
+* Microsoft Teams
+* Microsoft 365 Copilot
+* Notion
+* CapCut
+* Canva
+* Adobe Acrobat Reader
+* VLC Media Player
+* Zoom Workplace
+
+---
+
+## Phase 1 - Saturated Startup Environment
+
+All common applications enabled at startup to simulate an overloaded everyday system.
+
+### Expected Effects
+
+* Higher idle RAM usage
+* More background processes
+* Slower startup responsiveness
+
+<img width="1919" height="1118" alt="test-environment-overview" src="https://github.com/user-attachments/assets/182526fe-dad4-4d2b-b585-a9478caf2339" />
 
