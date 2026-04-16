@@ -25,6 +25,7 @@ Analyze how startup applications affect Windows performance and compare differen
 * Adobe Acrobat Reader
 * VLC Media Player
 * Zoom Workplace
+* Candy Crush Saga
 
 ---
 
