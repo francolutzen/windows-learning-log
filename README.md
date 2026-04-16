@@ -1,4 +1,4 @@
-Windows Learning Log
+# Windows Learning Log
 
 A practical learning log for Windows 10/11, networking, security, and technical support.
 
