@@ -71,7 +71,16 @@ Memory usage remains relatively high due to multiple background applications run
 
 Task Manager Startup tab showing multiple applications enabled to launch automatically with Windows.
 
-# 
+## Phase 2 - General Startup Optimization
+
+- This phase focuses on reducing unnecesary background activity by disabling non-essential startup applications. The goal is to create a cleaner system without prioritizing any specific user profile.
+
+### Task Manager - Startup (After Optimization)
+
+<img width="1919" height="1150" alt="After Optimization - Startup" src="https://github.com/user-attachments/assets/075349d4-da3b-4a00-96d7-4d1e3c25bcd8" />
+
+Most startup applications have been disabled, leaving only essentials processes such as Microsoft Edge and OneDrive enabled.
+
 
 
 
