@@ -7,7 +7,7 @@ Analyze how startup applications affect Windows performance and compare differen
 ## Test Environment
 
 * VirtualBox
-* Windows 10
+* Windows 10 Version 22H2
 * 4 GB RAM
 * 2 virtual CPU cores
 * Simulated average user scenario
