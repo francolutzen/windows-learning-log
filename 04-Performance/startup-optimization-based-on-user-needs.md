@@ -41,3 +41,5 @@ All common applications enabled at startup to simulate an overloaded everyday sy
 
 <img width="1919" height="1118" alt="test-environment-overview" src="https://github.com/user-attachments/assets/182526fe-dad4-4d2b-b585-a9478caf2339" />
 
+This image shows the test environment with commonly used applications installed to simulate a typical user setup.
+
