@@ -16,7 +16,7 @@
 * 2 Virtual CPU Cores
 * Simulated average user scenario
 
-# Phase 1 — Baseline Browser Behavior (Default Configuration)
+## Phase 1 — Baseline Browser Behavior (Default Configuration)
 
 ### Purpose
 
@@ -46,3 +46,8 @@ Establish a reference point using a standard browser installation with default s
 ### Expected Outcome
 
 Measure how much external activity occurs in a normal browsing session when the average user makes no privacy changes.
+
+
+
+<img width="1919" height="1157" alt="01-test-environment png" src="https://github.com/user-attachments/assets/9100bc28-a59b-4c08-923e-3b77464af809" />
+
