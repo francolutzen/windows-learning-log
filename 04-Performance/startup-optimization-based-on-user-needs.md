@@ -112,9 +112,10 @@ Disabling non-essential startup applications significantly reduces background ac
 
 ## Phase 3 - Profile-Based Optimization
 
-This phase focuses on optimizing the system based on specific user profiles.
+- This phase focuses on optimizing the system based on specific user profiles.
 Different configurations are applied depending on the intended use of the system, such as productivity, entertainment (gaming), and creative work.
 Each profile prioritizes different applications and startup configurations to improve efficiency for its specific use case.
+
 
 
 
