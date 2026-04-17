@@ -4,7 +4,7 @@
 
 - Demonstrate how a standard Windows system with defaults settings and commonly used applications can experience performance slowdowns due to excessive startup programs and unnecesary background processes
 
-- Analyze the impact of startup applications on system performance and compare basic optimizations strategies tailored to different user needs.
+- Analyze the impact of startup applications on system performance and compare basic optimizations strategies
 
 ## Test Environment
 
