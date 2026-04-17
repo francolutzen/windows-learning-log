@@ -103,6 +103,11 @@ CPU Usage remains low under normal conditions, typically ranging between 3-10%, 
 
 <img width="1919" height="1154" alt="After Optimization - RAM" src="https://github.com/user-attachments/assets/1de6ad90-1805-4333-9362-aa40635fea55" />
 
+Memory usage remains stable after optimization, maintaining a consistent level around 50% with only minor fluctuations. 
+This indicates reduced background activity and more efficient resources usage compared to the previous state.
+
+
+
 
 
 
