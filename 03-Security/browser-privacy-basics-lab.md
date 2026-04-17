@@ -47,6 +47,10 @@ Establish a reference point using a standard browser installation with default s
 
 Measure how much external activity occurs in a normal browsing session when the average user makes no privacy changes.
 
+# Clean Browser Default State
+
+<img width="1919" height="1150" alt="02-browser-default-state png" src="https://github.com/user-attachments/assets/70587fa5-e118-421b-b4d1-66b7d53078a7" />
+
 # Test Environment Ready
 
 <img width="1919" height="1157" alt="01-test-environment png" src="https://github.com/user-attachments/assets/9100bc28-a59b-4c08-923e-3b77464af809" />
