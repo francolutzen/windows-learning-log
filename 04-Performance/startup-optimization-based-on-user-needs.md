@@ -120,6 +120,11 @@ Disabling non-essential startup applications significantly reduces background ac
 Different configurations are applied depending on the intended use of the system, such as productivity, entertainment (gaming), and creative work.
 Each profile prioritizes different applications and startup configurations to improve efficiency for its specific use case.
 
+### Note on system behavior
+
+Applications not listed in Startup may still generate background processes when manually launched during a session.
+
+
 
 
 
