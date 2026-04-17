@@ -99,6 +99,11 @@ This is reflected in a clear reduction in resource usage, with CPU usage decreas
 
 CPU Usage remains low under normal conditions, typically ranging between 3-10%, with occasional short spikes that can reach higher values (around 30-40%) due to background system activity.
 
+# Task Manager - Performance (Memory) (After Optimization)
+
+<img width="1919" height="1154" alt="After Optimization - RAM" src="https://github.com/user-attachments/assets/1de6ad90-1805-4333-9362-aa40635fea55" />
+
+
 
 
 
