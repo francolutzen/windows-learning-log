@@ -93,6 +93,12 @@ Most startup applications have been disabled, leaving only essentials processes 
 The number of active background processes has been reduced after disabling non-essentials startup applications.
 This is reflected in a clear reduction in resource usage, with CPU usage decreasing from around 50-70% to roughly 5%-20%
 
+# Task Manager - Performance (CPU) (After Optimization)
+
+<img width="1919" height="1125" alt="After Optimization - CPU Performance" src="https://github.com/user-attachments/assets/a628a058-02e6-41bd-adfb-9f52d4b478d5" />
+
+CPU Usage remains low under normal conditions, typically ranging between 3-10%, with occasional short spikes that can reach higher values (around 30-40%) due to background system activity.
+
 
 
 
