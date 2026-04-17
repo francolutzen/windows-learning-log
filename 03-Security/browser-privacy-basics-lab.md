@@ -60,12 +60,11 @@ Fresh installation of Google Chrome running with default settings, no extensions
 # Simulated Active Browsing Session
 
 <img width="1916" height="1146" alt="03-simulated-active-session" src="https://github.com/user-attachments/assets/8ae5d2f0-1ca6-4972-ba22-1abcdcbc3ca7" />
-
 Simulated average user browsing session with multiple open tabs including e-commerce, news and travel under default browser settings.
 
 # Network Tab Capture
 
-<img width="1919" height="1124" alt="04-network-tab-capture png" src="https://github.com/user-attachments/assets/878267c9-064d-496d-bafe-5ae168f108ca" />
+<<img width="1919" height="1152" alt="04-network-tab-capture" src="https://github.com/user-attachments/assets/d5080134-d114-41a5-913d-c34e9368d6c5" />
 Chrome Developer Tools showing the Network tab with basic HTTP requests loaded after refreshing a webpage. The view displays different resource types such as images, scripts, and stylesheets.
 
 
