@@ -112,12 +112,12 @@ This indicates reduced background activity and more efficient resources usage co
 
 ### Summary
 
-Disabling non-essential startup applications significantly reduces background activity, resulting in lower CPU and memory usage, as well as improved system stability.
+Disabling non-essential startup applications significantly reduced background activity, resulting in lower CPU and memory usage, as well as improved system stability.
 
 ## Conclusion
 
-This basic project demonstrate how simple startup configuration changes in Windows 10/11 can reduce background resource usages and improve system responsiveness during idle conditions.
-The results show a clear difference between an overloaded startup environment and a minimal optimized configurations
+This basic project demonstrates how simple startup configuration changes in Windows 10/11 can reduce background resource usage and improve system responsiveness during idle conditions.
+The results show a clear difference between an overloaded startup environment and a minimal optimized configuration
 
 
 
