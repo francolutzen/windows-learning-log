@@ -16,3 +16,35 @@
 * 2 Virtual CPU Cores
 * Simulated average user scenario
 
+# Phase 1 — Baseline Browser Behavior (Default Configuration)
+
+## Phase 1 — Baseline Browser Behavior (Default Configuration)
+
+### Purpose
+
+Establish a reference point using a standard browser installation with default settings before applying any privacy protections.
+
+### Actions Performed
+
+* Installed a web browser with default configuration.
+* Visited common everyday websites (news, shopping, video, search, social platforms).
+* Opened Developer Tools to inspect:
+
+  * Cookies
+  * Network requests
+  * Third-party domains
+  * Loaded scripts
+* Observed visible ads, consent banners, pop-ups, and trackers.
+* Recorded initial behavior without extensions or custom blocking rules.
+
+### Data Collected
+
+* Number of third-party requests
+* Presence of tracking / analytics domains
+* Cookies created during session
+* Page load behavior
+* User experience under default settings
+
+### Expected Outcome
+
+Measure how much external activity occurs in a normal browsing session when the average user makes no privacy changes.
