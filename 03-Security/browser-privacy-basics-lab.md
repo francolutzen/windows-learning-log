@@ -18,8 +18,6 @@
 
 # Phase 1 — Baseline Browser Behavior (Default Configuration)
 
-## Phase 1 — Baseline Browser Behavior (Default Configuration)
-
 ### Purpose
 
 Establish a reference point using a standard browser installation with default settings before applying any privacy protections.
