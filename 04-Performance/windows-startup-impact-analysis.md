@@ -1,4 +1,4 @@
-# # Windows Startup Impact Analysis
+#Windows Startup Impact Analysis
 
 ## Objectives
 
