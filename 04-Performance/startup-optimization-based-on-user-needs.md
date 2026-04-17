@@ -29,6 +29,10 @@
 * Zoom Workplace
 * Candy Crush Saga
 
+### Note
+
+Not all installed applications appear in the Startup tab. Only programs configured to launch atomatically at system startup are listed. Other applications may still run manually or generate background processes during use.
+
 ---
 
 ## Phase 1 - Saturated Startup Environment
