@@ -114,15 +114,14 @@ This indicates reduced background activity and more efficient resources usage co
 
 Disabling non-essential startup applications significantly reduces background activity, resulting in lower CPU and memory usage, as well as improved system stability.
 
-## Phase 3 - Profile-Based Optimization
+## Conclusion
 
-- This phase focuses on optimizing the system based on specific user profiles.
-Different configurations are applied depending on the intended use of the system, such as productivity, entertainment (gaming), and creative work.
-Each profile prioritizes different applications and startup configurations to improve efficiency for its specific use case.
+This basic project demonstrate how simple startup configuration changes in Windows 10/11 can reduce background resource usages and improve system responsiveness during idle conditions.
+The results show a clear difference between an overloaded startup environment and a minimal optimized configurations
 
-### Note on system behavior
 
-Applications not listed in Startup may still generate background processes when manually launched during a session.
+
+
 
 
 
