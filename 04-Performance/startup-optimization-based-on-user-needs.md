@@ -106,6 +106,10 @@ CPU Usage remains low under normal conditions, typically ranging between 3-10%, 
 Memory usage remains stable after optimization, maintaining a consistent level around 50% with only minor fluctuations. 
 This indicates reduced background activity and more efficient resources usage compared to the previous state.
 
+###Summary
+
+Disabling non-essential startup applications significantly reduces background activity, resulting in lower CPU and memory usage, as well as improved system stability.
+
 
 
 
