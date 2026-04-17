@@ -47,7 +47,8 @@ Establish a reference point using a standard browser installation with default s
 
 Measure how much external activity occurs in a normal browsing session when the average user makes no privacy changes.
 
-
+# Test Environment Ready
 
 <img width="1919" height="1157" alt="01-test-environment png" src="https://github.com/user-attachments/assets/9100bc28-a59b-4c08-923e-3b77464af809" />
+Initial controlled environment used to simulate an average Windows user browsing session.
 
