@@ -11,7 +11,7 @@
 ## Test Environment
 
 * Oracle VM VirtualBox
-* Windows 10
+* Windows 10 22H2
 * 4 GB RAM
 * 2 Virtual CPU Cores
 * Simulated average user scenario
