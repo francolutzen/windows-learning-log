@@ -59,8 +59,9 @@ Fresh installation of Google Chrome running with default settings, no extensions
 
 # Simulated Active Browsing Session
 
-<img width="1919" height="1152" alt="03-simulated-active-session png" src="https://github.com/user-attachments/assets/67346390-f7bc-4cf8-8ce9-9b21cb8a5a2e" />
-Simulated average user browsing session with multiple open tabs including e-commerce, news, travel, and video platforms under default browser settings.
+<img width="1916" height="1146" alt="03-simulated-active-session" src="https://github.com/user-attachments/assets/8ae5d2f0-1ca6-4972-ba22-1abcdcbc3ca7" />
+
+Simulated average user browsing session with multiple open tabs including e-commerce, news and travel under default browser settings.
 
 # Network Tab Capture
 
