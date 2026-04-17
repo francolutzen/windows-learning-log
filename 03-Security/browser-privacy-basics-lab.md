@@ -57,3 +57,9 @@ Initial controlled environment used to simulate an average Windows user browsing
 <img width="1919" height="1150" alt="02-browser-default-state png" src="https://github.com/user-attachments/assets/bd14cfd3-7b8e-46fa-8a3d-63d3e6bacf96" />
 Fresh installation of Google Chrome running with default settings, no extensions installed, and no custom privacy protections enabled.
 
+# Simulated Active Browsing Session
+
+<img width="1919" height="1152" alt="03-simulated-active-session png" src="https://github.com/user-attachments/assets/67346390-f7bc-4cf8-8ce9-9b21cb8a5a2e" />
+Simulated average user browsing session with multiple open tabs including e-commerce, news, travel, and video platforms under default browser settings.
+
+
